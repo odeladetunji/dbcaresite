@@ -350,7 +350,7 @@ function App() {
                     <div className="contact-icon">☎</div>
                     <div>
                       <strong>Phone</strong>
-                      <p>+1 (929) 437-6782</p>
+                      <p>+1 (929) 437-6782, +2349060284864</p>
                     </div>
                   </div>
                   <div className="contact-item">
