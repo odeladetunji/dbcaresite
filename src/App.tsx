@@ -332,9 +332,10 @@ function App() {
                 <div className="section-label">Contact</div>
                 <h2>Talk to the team</h2>
                 <p className="lead small-lead">
-                  This contact section is intentionally simple and credible. It works
-                  better than generic template calls to action because it gives visitors
-                  a clear next step without over-selling.
+                For inquiries, partnerships, or to explore how DB Care Team can support 
+                structured diabetes and kidney disease management, please contact our
+                team. We’re available to provide additional information, demonstrations,
+                 and onboarding support.
                 </p>
 
                 <div className="contact-list">
