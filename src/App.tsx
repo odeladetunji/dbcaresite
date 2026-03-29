@@ -426,8 +426,8 @@ function App() {
             </div>
             <div>
               <div className="footer-title">Reach us</div>
-              <p>support@dbcareteam.com</p>
-              <p>+1 (929) 437-6782</p>
+              <p>tunji@dbcareteam.com</p>
+              <p>+1 (929) 437-6782, +2349060284864</p>
               <p>New York, United States</p>
             </div>
           </div>
