@@ -422,7 +422,8 @@ function App() {
               <a href="#how-it-works">How it works</a>
               <a href="#platform">Platform</a>
               <a href="#contact">Contact</a>
-              <a href="#">Privacy policy</a>
+              <a href="https://delete.dbcareteam.com">Delete Data</a>
+              <a href="https://privacy.dbcareteam.com">Privacy policy</a>
             </div>
             <div>
               <div className="footer-title">Reach us</div>
