@@ -166,7 +166,7 @@ function App() {
                 <span>Diabetes and kidney support</span>
               </div>
               {/* <h1>A cleaner, more credible digital front door for diabetes care.</h1> */}
-              <h1>An AI-powered digital care platform for better management of diabetes and kidney disease.</h1>
+              <h1>A digital care platform for managing diabetes and kidney disease with clarity and structure.</h1>
               {/* <h1>Daily check-ins that feel rewarding — and keep you accountable.</h1> */}
               <p className="lead">
               DB Care Team combines guided programs, real-time tracking, and coordinated care 
